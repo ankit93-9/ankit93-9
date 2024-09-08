@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ankit93-9
-- 👀 I’m interested in ... Java
-- 🌱 I’m currently learning ... Java Full Stack Web Dev
+- 👀 I’m interested in ... App Development
+- 🌱 I’m currently learning ... Flutter Full Stack
 - 💞️ I’m looking to collaborate on ...coding world
 - 📫 How to reach me ...just Dm
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... System.out.pritnln("there is no fun");
+- ⚡ Fun fact: ... Print($APP KI Duniya)
 
 <!---
 ankit93-9/ankit93-9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
